@@ -1,6 +1,6 @@
-package com.mustafa.designpatterns.singleton.singleton;
+package com.mustafa.designpatterns.creationalPatterns.singletonPattern.singleton;
 
-import com.mustafa.designpatterns.singleton.models.Country;
+import com.mustafa.designpatterns.creationalPatterns.singletonPattern.models.Country;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

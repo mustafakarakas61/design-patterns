@@ -1,4 +1,4 @@
-package com.mustafa.designpatterns.builder;
+package com.mustafa.designpatterns.creationalPatterns.builderPattern;
 
 public class EndpointBuilder {
     private static final String DEFAULT_DELIMITER = "/";

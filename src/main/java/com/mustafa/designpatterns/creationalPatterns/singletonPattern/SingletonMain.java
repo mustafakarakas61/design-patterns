@@ -1,7 +1,7 @@
-package com.mustafa.designpatterns.singleton;
+package com.mustafa.designpatterns.creationalPatterns.singletonPattern;
 
-import com.mustafa.designpatterns.singleton.models.Country;
-import com.mustafa.designpatterns.singleton.singleton.CountryProvider;
+import com.mustafa.designpatterns.creationalPatterns.singletonPattern.singleton.CountryProvider;
+import com.mustafa.designpatterns.creationalPatterns.singletonPattern.models.Country;
 
 import java.time.LocalTime;
 import java.util.List;

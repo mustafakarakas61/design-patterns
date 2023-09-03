@@ -1,4 +1,4 @@
-package com.mustafa.designpatterns.builder;
+package com.mustafa.designpatterns.creationalPatterns.builderPattern;
 
 public class Person {
 

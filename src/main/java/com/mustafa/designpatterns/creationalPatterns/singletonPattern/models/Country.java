@@ -1,4 +1,4 @@
-package com.mustafa.designpatterns.singleton.models;
+package com.mustafa.designpatterns.creationalPatterns.singletonPattern.models;
 
 import org.springframework.stereotype.Component;
 
